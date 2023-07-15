@@ -1,2 +1,1 @@
-# IdeationDungeons
 # derivativeideation.github.io
